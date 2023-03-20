@@ -73,3 +73,8 @@ git flow feature start f002
 
 git flow feature finish f001
 git flow feature publish f002
+
+Tutorial:
+https://www.youtube.com/watch?v=kBJf8sIHDuM 
+
+
