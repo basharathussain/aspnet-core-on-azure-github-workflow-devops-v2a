@@ -1,7 +1,7 @@
 # Lecture 1
 # ==================
 
-# devops-aspnet-core-github-workflow-v2a
+# aspnet-core-on-azure-github-workflow-devops-v2a
 Repository for Dev Ops Class 
 
 # About the class 
@@ -79,7 +79,7 @@ git flow feature publish f002
 
 # Lecture 2
 # ==================
-# Set up Secrets in GitHub Action workflows 
+# Set up Secrets in GitHub Action workflows plus Azure WebApp 
 
 [GitHub Secrets](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/creating-and-using-encrypted-secrets) are encrypted and allow you to store sensitive information, such as access tokens, in your repository.
 
